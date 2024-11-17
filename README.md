@@ -124,6 +124,9 @@ Chaque composant de l’application accède aux données des modules via le stor
 
 ## Wirerames 
 
+![Group 1 (3)](https://github.com/user-attachments/assets/1a520afd-d3dc-4edf-81ef-b3dd19582507)
+
+
 
 
 
