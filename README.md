@@ -9,7 +9,9 @@ L'application permet aux utilisateurs de se connecter de manière sécurisée et
 ### Endpoints
 
 GET /api/modules : Récupère la liste des modules disponibles.
+
 POST /api/login : Authentifie un utilisateur et retourne un token JWT.
+
 GET /api/user/{id} : Récupère les informations d’un utilisateur spécifique.
 
 ## Installation du projet
@@ -55,6 +57,8 @@ Base de données : MySQL
 Authentification : JWT (JSON Web Token)
 
 ### Structure de la base de donnée  
+
+![Untitled diagram-2024-11-17-143506](https://github.com/user-attachments/assets/3928c770-cedc-459c-91d5-446eea33bdbf)
 
 #### Tables principales : 
 
