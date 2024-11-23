@@ -122,6 +122,11 @@ Le client envoie une requête GET vers /api/modules, incluant le token JWT dans 
 Le provider ou store reçoit et stocke la liste des modules, permettant une mise à jour automatique de l'interface utilisateur.
 Chaque composant de l’application accède aux données des modules via le store, simplifiant la gestion de l’état global.
 
+## Diagramme de séquence : Login et récupération du JWT
+
+![Untitled diagram-2024-11-23-171348](https://github.com/user-attachments/assets/e7f321df-ddfd-4261-9d18-e2c8f6a252e6)
+
+
 ## Wirerames 
 
 ![Group 1 (3)](https://github.com/user-attachments/assets/1a520afd-d3dc-4edf-81ef-b3dd19582507)
